@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone (Frontend)
+# 🛒 e-Commerce (Frontend)
 
 A simple **frontend e-commerce website** built using **HTML, CSS, and JavaScript**.  
 This project is a clone of Amazon's homepage with a focus on design and responsiveness.  
